@@ -1,4 +1,5 @@
-const baseUrl = '';
+// const baseUrl = 'https://doc-api.easyapi.com';
+const baseUrl = 'https://shop-api.huakaiwanyi.com';
 
 export function request(url, method, data, header) {
 	let requestMethod = method.toUpperCase() || "GET";
