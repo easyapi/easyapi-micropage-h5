@@ -1,6 +1,7 @@
 @font-face {
-  font-family: "customicons"; /* Project id 2878519 */
-  src:url('/static/customicons.ttf') format('truetype');
+  font-family: "customicons";
+  /* Project id 2878519 */
+  src: url('/static/customicons.ttf') format('truetype');
 }
 
 .customicons {
