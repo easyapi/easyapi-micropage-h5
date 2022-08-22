@@ -9,12 +9,16 @@
 
 ## 如何嵌入
 
-集成EasyAPI微页面H5的项目，部署成功后，调用需要传入accessToken参数，该参数的值需要从业务系统获取
+ - 集成EasyAPI微页面H5的项目，部署成功后，调用需要传入accessToken参数，该参数的值需要从业务系统获取
+ - 打开[EasyAPI](https://www.easyapi.com/)
+ - 进入项目控制台
+ - 从左侧点击进入微页面管理模块
+ - 点击
 
-|  参数名称   | 参数说明  |
-|  ----  | ----  |
-| accessToken  | EasyAPI快速提现访问令牌 |
-| username  | 用户标识 |
+|  参数名称		| 参数说明								|
+|  --------		| ----------							|
+| accessToken	| EasyAPI快速提现访问令牌	|
+| username		| 用户标识								|
 
 ## 项目目录结构
 
